@@ -1,0 +1,23 @@
+# --- Binaries and Executables ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+out/
+
+# --- Test and Coverage ---
+*.test
+*.out
+coverage.txt
+profile.out
+
+# --- Development Tools ---
+.go/
+.env
+.env.local
+
+# --- IDE/Editor Specific ---
+.vscode/
+.idea/
