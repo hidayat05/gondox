@@ -4,6 +4,8 @@ A desktop GUI for generating Go code from `.proto` files using pinned `protoc`, 
 
 Built with Go and Fyne.
 
+![](docs/gondox_dark_mode.png)
+
 ## Features
 
 - Desktop UI for Proto → Go code generation
